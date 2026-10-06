@@ -4,7 +4,7 @@ Tugas Praktikum 4 DPBO kelas C1 Java Swing using intelliJ IDEA 2026.2.3
 Saya Wingko Prajna dengan NIM 2503358 mengerjakan TP 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Desain .form
-<img src="DOKUMENTASI/desain.form.png" width=700px>
+<img src="DOKUMENTASI/desain.png" width=700px>
 
 # Penjelasan dan Alur Program `DataMahasiswa`
 
