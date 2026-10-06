@@ -5,6 +5,7 @@ Saya Wingko Prajna dengan NIM 2503358 mengerjakan TP 4 dalam mata kuliah Desain 
 
 # Desain .form
 <img src="Dokumentasi/desain.png" width=700px>
+<img src="Dokumentasi/desain.png" width=700px>
 
 # Penjelasan dan Alur Program `DataMahasiswa`
 
